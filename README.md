@@ -7,7 +7,7 @@ I'm a **full-stack developer** living in San Francisco. I mostly write JS & Swif
 - [Bowie CLI](https://github.com/stevederico/grok-cli) - an interactive CLI for grok 4, ollama, and more
 
 ## About Me
-- 🚀 **Built 100+ apps ** with over **5 million downloads**
+- 🚀 **Built 100+ apps** with over **5 million downloads**
 - 📚 **Author** of *"Introducing iOS: Swift Programming from Idea to App Store"*  
   Published by **O'Reilly Media** | [Available on Amazon](http://amzn.to/2dLJjmP)
 - 👥 **NSMeetup organizer** - San Francisco's largest iOS Meetup with 4,000+ members
