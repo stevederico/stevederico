@@ -4,7 +4,7 @@ I'm a **full-stack developer** living in San Francisco. I mostly write JS & Swif
 ## Recent Projects
 - [Silo](https://github.com/stevederico/silo) - private AI Assistant for iPhone
 - [Skateboard](https://github.com/stevederico/skateboard) - React Boilerplate
-- [Bowie CLI](https://github.com/stevederico/grok-cli) - an interactive CLI for grok 4, ollama, and more
+- [Grok CLI](https://github.com/stevederico/grok-cli) - an interactive CLI for grok 4, ollama, and more
 
 ## About Me
 - 🚀 **Built 100+ apps** with over **5 million downloads**
