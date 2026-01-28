@@ -15,7 +15,7 @@
 > Shipping apps for 15+ years — 100+ apps, 5M+ downloads. Objc/Swift for 10+ Years, now building AI-powered tools with JS.
 
 ## Projects
-- 🏥 **[Dottie Health Assistant](https://dottie.ai)** (closed source) – AI assistants for medical patients and physicians.
+- 🏥 **[Dottie Health Assistant](https://dottie.ai)** – AI assistants for medical patients and physicians.
 
 ### Open Source 
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device, no internet required
