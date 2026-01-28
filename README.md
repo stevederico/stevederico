@@ -1,4 +1,4 @@
-# Hi, I'm Steve 👋
+# 👋 Hi, I'm Steve
 
 📍 **San Francisco** | 🤖 **Founder at [Dottie AI](https://dottie.ai)** | 📚 **O'Reilly Author**
 
