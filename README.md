@@ -12,7 +12,7 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> Shipping apps for 15+ years — 100+ apps, 5M+ downloads. Objc/Swift for 10+ Years, now building AI-powered tools with JS.
+> Shipping apps for 15+ years — 100+ apps, 5M+ downloads. Objc/Swift for 10+ years, now building AI-powered tools with JS.
 
 ## Projects
 - 🏥 **[Dottie Health Assistant](https://dottie.ai)** – AI assistants for medical patients and physicians.
