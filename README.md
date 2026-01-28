@@ -30,6 +30,7 @@
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Interactive CLI for Grok 4
 - 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect LLMs to MongoDB
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
+- 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
 
 ### iOS Work
