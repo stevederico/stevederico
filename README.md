@@ -12,12 +12,12 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> Shipping apps for 15+ years — 100+ apps, 5M+ downloads. Objc/Swift for 10+ Years, now building AI-powered tools with javascript.
+> Shipping apps for 15+ years — 100+ apps, 5M+ downloads. Objc/Swift for 10+ Years, now building AI-powered tools with JS.
 
-🏥 **[dottie.ai](https://dottie.ai)** (closed source) – AI assistants for medical patients and physicians.
+## Projects
+- 🏥 **[Dottie Health Assistant](https://dottie.ai)** (closed source) – AI assistants for medical patients and physicians.
 
-## Current Projects
-
+### Open Source 
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device, no internet required
 - 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups 
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - Boilerplate with React, Tailwind, Shadcn/ui, Stripe, Vite
