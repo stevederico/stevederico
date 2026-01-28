@@ -18,11 +18,11 @@
 - 🏥 **[Dottie Health Assistant](https://dottie.ai)** – AI assistants for medical patients and physicians.
 
 ### Open Source 
-- 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device, no internet required
+- 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
 - 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups 
-- 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - Boilerplate with React, Tailwind, Shadcn/ui, Stripe, Vite
-  - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Reusable components for building web apps
-  - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps, 3 lines of config
+- 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React Boilerplate with Tailwind, Shadcn/ui, Stripe, Vite
+  - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
+  - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
   - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
 - 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
