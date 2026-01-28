@@ -29,7 +29,7 @@
 - 📝 **[System Prompts](https://github.com/stevederico/system-prompts)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Interactive CLI for Grok 4
 - 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect LLMs to MongoDB
-- ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients
+- ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
 
 ### iOS Work
 
