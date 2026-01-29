@@ -19,7 +19,7 @@
 
 ### Open Source 
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
-- 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Interactive CLI for Grok 4
+- 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant 
 - 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups 
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React Boilerplate with Tailwind, Shadcn/ui, Stripe, Vite
   - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
