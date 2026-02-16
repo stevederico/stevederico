@@ -15,6 +15,7 @@
 > Shipping apps for 15+ years — 100+ apps, 5M+ downloads. Objc/Swift for 10+ years, now building AI-powered tools with JS.
 
 ## Projects
+- 🎙️ **[Dottie Desktop](https://desktop.dottie.ai)** – Talk to Your Mac. 100% Free, powered by local AI.
 - 🏥 **[Dottie Health Assistant](https://patient.dottie.ai)** – AI assistants for medical patients and physicians.
 
 ### Open Source 
