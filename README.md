@@ -29,6 +29,7 @@
   - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
   - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
+- ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
 - 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
 - 📝 **[System Prompts](https://github.com/stevederico/system-prompts)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
 - 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect LLMs to MongoDB
