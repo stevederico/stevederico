@@ -19,7 +19,7 @@
 - 🏥 **[Dottie Health Assistant](https://patient.dottie.ai)** – AI assistants for medical patients and physicians.
 
 ### Open Source 
-- 🧑‍✈️ ** [Skipper](https://github.com/stevederico/skipper)  ** - Manage coding agents in a project
+- 🚢 ** [Skipper](https://github.com/stevederico/skipper)  ** - Manage coding agents across a project
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
 - ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Auto-focus when coding agent needs input
