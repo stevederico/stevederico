@@ -19,7 +19,7 @@
 - 🏥 **[Health Assistant](https://patient.dottie.ai)** – AI assistants for medical patients and physicians.
 
 ### Open Source 
-- 🤖 **[dotbot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools
+- 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Auto-focus when coding agent needs input
