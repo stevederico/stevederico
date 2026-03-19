@@ -40,15 +40,12 @@
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
-
-### iOS Work
-
+- 📰 **[HNReaderPlus](https://github.com/stevederico/HNReaderPlus)** - Simple Hacker News reader for iOS
+- 🎯 **[GetFocused](https://github.com/stevederico/GetFocused)** - Block distracting websites and get focused
 - 🏗️ **[SDScaffoldKit](https://github.com/stevederico/SDScaffoldKit)** - Scaffolding for Core Data models
 - ☁️ **[SDScaffoldSync](https://github.com/stevederico/SDScaffoldSync)** - Create a cloud syncing mobile app in 3 minutes
 - 🔐 **[SDLoginKit](https://github.com/stevederico/SDLoginKit)** - Login/Sign-Up ViewControllers for custom backends
 - 🧰 **[SDKit](https://github.com/stevederico/SDKit)** - Collection of useful iOS classes
-- 📰 **[HNReaderPlus](https://github.com/stevederico/HNReaderPlus)** - Simple Hacker News reader for iOS
-- 🎯 **[GetFocused](https://github.com/stevederico/GetFocused)** - Block distracting websites and get focused
 
 ## What I'm Doing
 
@@ -82,12 +79,9 @@
 
 > "Ship it." - I build apps that solve real problems. 100+ shipped and counting.
 
-<details>
-<summary>Random Facts</summary>
-
+### Random Facts
 - Never had a cup of coffee
 - Ran a 4:15 mile — captain of collegiate cross country and track
 - FIRST Robotics national runner-up
 - 10,000+ lines of open-source code contributed
-
-</details>
+- Top 1% of Nirvana listeners
