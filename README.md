@@ -27,7 +27,6 @@
 - 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
 - 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
 - 👉 **[More apps](https://www.bixbyapps.com)**
-### Open Source
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
