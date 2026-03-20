@@ -34,7 +34,6 @@
 - 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
 - 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
 - 👉 **[More apps](https://www.bixbyapps.com)**
-
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
