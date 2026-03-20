@@ -18,12 +18,14 @@
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
 - ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
-- 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — timeline TV feed, QR code wallpapers, and algo education
+- 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
 - ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
 - 🐷 **[Piglet](https://baby.bixbyapps.com)** – Baby tracking with charts and data visualization
 - 🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
 - 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
+- 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
+- 👉 **[More apps →](https://www.bixbyapps.com)**
 ### Open Source
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
