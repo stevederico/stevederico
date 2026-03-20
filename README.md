@@ -16,31 +16,31 @@
 
 ## Projects
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
-- ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
-- 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
-- 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
-- ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
-- 🐷 **[Piglet](https://baby.bixbyapps.com)** – Baby tracking with charts and data visualization
-- 🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
-- 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
-- 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
-- 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
-- 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
-- 👉 **[More apps](https://www.bixbyapps.com)**
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
-- 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
-- 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
-- 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
-- ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Auto-focus when coding agent needs input
-- 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
-- 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
-- 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
-- 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
-- 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
+- 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React Boilerplate with Tailwind, Shadcn/ui, Stripe, Vite
   - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
   - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
   - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
+- 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
+- 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
+- ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
+- 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
+- 🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
+- 🐷 **[Piglet](https://baby.bixbyapps.com)** – Baby tracking with charts and data visualization
+- ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
+- 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
+- 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
+- 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
+- 👉 **[More apps](https://www.bixbyapps.com)**
+- 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
+- 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
+- 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
+- ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Auto-focus when coding agent needs input
+- 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
+- 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
+- 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
+- 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
 - ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
