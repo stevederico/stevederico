@@ -19,7 +19,7 @@
 - 🏥 **[Health Assistant](https://patient.dottie.ai)** – AI assistants for medical patients and physicians.
 - ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
-- 🔭 **[Spyglass](https://spyglass.bixbyapps.com)** – App Store screenshots, done right
+- 🔭 **[Spyglass](https://spyglass.bixbyapps.com)** – App Store screenshots, done right (Web + CLI)
 
 ### Open Source 
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
