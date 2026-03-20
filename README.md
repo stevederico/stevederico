@@ -20,6 +20,7 @@
 - ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — timeline TV feed, QR code wallpapers, and algo education
+- ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
 ### Open Source
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
