@@ -19,6 +19,7 @@
 - 🏥 **[Health Assistant](https://patient.dottie.ai)** – AI assistants for medical patients and physicians.
 - ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
+- 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — timeline TV feed, QR code wallpapers, and algo education
 ### Open Source
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
@@ -29,7 +30,7 @@
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
 - 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
 - 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
-- 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups 
+- 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React Boilerplate with Tailwind, Shadcn/ui, Stripe, Vite
   - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
   - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
