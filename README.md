@@ -53,8 +53,16 @@
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
+
+<details>
+<summary>Legacy iOS & Ruby Apps</summary>
+
 - 📰 **[HNReaderPlus](https://github.com/stevederico/HNReaderPlus)** - Simple Hacker News reader for iOS
 - 🎯 **[GetFocused](https://github.com/stevederico/GetFocused)** - Block distracting websites and get focused
+- 📸 **[Shoebox](https://github.com/stevederico/Shoebox)** - Simple photo sharing app
+- 🎲 **[TabooPlus](https://github.com/stevederico/TabooPlus)** - What Word? — A simple Taboo game for iOS
+- 🎳 **[Skeeball-Scorer](https://github.com/stevederico/Skeeball-Scorer)** - Simple skeeball scoring app
+- 📝 **[SDNoteTaker](https://github.com/stevederico/SDNoteTaker)** - Simple markdown site for note taking
 - 🏗️ **[SDScaffoldKit](https://github.com/stevederico/SDScaffoldKit)** - Scaffolding for Core Data models
 - ☁️ **[SDScaffoldSync](https://github.com/stevederico/SDScaffoldSync)** - Create a cloud syncing mobile app in 3 minutes
 - 🔐 **[SDLoginKit](https://github.com/stevederico/SDLoginKit)** - Login/Sign-Up ViewControllers for custom backends
@@ -66,6 +74,8 @@
 - 🏃 **[RunLog iOS](https://github.com/stevederico/runlog-ios-archive)** - Running log for iOS
 - 📊 **[SDStockKit](https://github.com/stevederico/SDStockKit)** - Stock market data kit
 - 🖼️ **[AppStoreGallery](https://github.com/stevederico/AppStoreGallery)** - App Store screenshot gallery
+
+</details>
 
 ## What I'm Doing
 
