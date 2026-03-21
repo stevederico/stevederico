@@ -26,6 +26,7 @@
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
 - 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
   - 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
+  - 📺 **[x-tv](https://xtv.bixbyapps.com)** - Watch your 𝕏 feed on the big screen
 - ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
 - 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
 - 🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
@@ -33,6 +34,7 @@
 - ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
+- 🎓 **[AppSchool](https://github.com/stevederico/appschool-web)** – Learn to make apps, 500+ students taught
 - 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
 - 👉 **[More apps](https://www.bixbyapps.com)**
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
@@ -57,6 +59,13 @@
 - ☁️ **[SDScaffoldSync](https://github.com/stevederico/SDScaffoldSync)** - Create a cloud syncing mobile app in 3 minutes
 - 🔐 **[SDLoginKit](https://github.com/stevederico/SDLoginKit)** - Login/Sign-Up ViewControllers for custom backends
 - 🧰 **[SDKit](https://github.com/stevederico/SDKit)** - Collection of useful iOS classes
+- 🌐 **[localizable.string](https://github.com/stevederico/localizable.string)** - Localization string management
+- 📡 **[SDPinger](https://github.com/stevederico/SDPinger)** - Keep your free Heroku dynos alive
+- 📋 **[SDBootstrapTemplates](https://github.com/stevederico/SDBootstrapTemplates)** - Bootstrap starter templates
+- 🏃 **[RunLog](https://github.com/stevederico/runlog-ruby-archive)** - Running log built with Ruby
+- 🏃 **[RunLog iOS](https://github.com/stevederico/runlog-ios-archive)** - Running log for iOS
+- 📊 **[SDStockKit](https://github.com/stevederico/SDStockKit)** - Stock market data kit
+- 🖼️ **[AppStoreGallery](https://github.com/stevederico/AppStoreGallery)** - App Store screenshot gallery
 
 ## What I'm Doing
 
