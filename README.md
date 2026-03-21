@@ -21,6 +21,7 @@
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React Boilerplate with Tailwind, Shadcn/ui, Stripe, Vite
   - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
   - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
+  - 📝 **[Skateboard Blog](https://github.com/stevederico/skateboard-blog)** - Blog starter template with Astro, MDX, dark mode
   - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
 - 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
