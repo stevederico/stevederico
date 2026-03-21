@@ -36,7 +36,6 @@
 - 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
 - 🎓 **[AppSchool](https://github.com/stevederico/appschool-web)** – Learn to make apps, 500+ students taught
 - 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
-- 👉 **[More apps](https://www.bixbyapps.com)**
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
@@ -53,6 +52,7 @@
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
+- 👉 **[More apps](https://www.bixbyapps.com)**
 
 <details>
 <summary>Legacy iOS & Ruby Apps</summary>
