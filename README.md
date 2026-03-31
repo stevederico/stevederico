@@ -18,7 +18,7 @@
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
-- 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React Boilerplate with Tailwind, Shadcn/ui, Stripe, Vite
+- 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React starter kit
   - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
   - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
   - 📝 **[Skateboard Blog](https://github.com/stevederico/skateboard-blog)** - Blog starter template with Astro, MDX, dark mode
@@ -40,7 +40,7 @@
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
-- ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Auto-focus when coding agent needs input
+- ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Multi-agent terminal focus
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
 - 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
 - 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
