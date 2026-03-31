@@ -48,7 +48,7 @@
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
 - ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
 - 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
-- 📝 **[System Prompts](https://github.com/stevederico/system-prompts)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
+- 📝 **[AGENTS.md](https://github.com/stevederico/AGENTS)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
 - 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect LLMs to MongoDB
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
