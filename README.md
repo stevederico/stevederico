@@ -39,6 +39,7 @@
 - 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
+- 🏗️ **[Shipyard](https://github.com/stevederico/shipyard)** - Autonomous code factory — issues go in, PRs come out
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Multi-agent terminal focus
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
