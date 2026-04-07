@@ -40,6 +40,7 @@
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 🏗️ **[Shipyard](https://github.com/stevederico/shipyard)** - Autonomous code factory — issues go in, PRs come out
+- 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Multi-agent terminal focus
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
