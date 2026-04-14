@@ -16,7 +16,7 @@
 
 ## Projects
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
-- 🔨 **[HARDWORK](https://hardwork.dev)** - Professional profiles for 𝕏, work experience, education, projects and QR codes
+- 🔨 **[HARDWORK](https://hardwork.dev)** - Professional profiles for 𝕏, what have you done this week?
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React starter kit
