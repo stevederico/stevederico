@@ -16,47 +16,47 @@
 
 ## Projects
 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
-- 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
-- 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
-- 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
-- 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React starter kit
-  - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
-  - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
-  - 📝 **[Skateboard Blog](https://github.com/stevederico/skateboard-blog)** - Blog starter template with Astro, MDX, dark mode
-  - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
-- 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
-- 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
-- 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
-  - 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
-  - 📺 **[x-tv](https://xtv.bixbyapps.com)** - Watch your 𝕏 feed on the big screen
-- ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
-- 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
-- 🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
-- 🐷 **[Piglet](https://baby.bixbyapps.com)** – Baby tracking with charts and data visualization
-- ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
-- 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
-- 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
-- 🎓 **[AppSchool](https://github.com/stevederico/appschool-web)** – Learn to make apps, 500+ students taught
-- 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
-- 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
-- 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
-- 🏗️ **[Shipyard](https://github.com/stevederico/shipyard)** - Autonomous code factory — issues go in, PRs come out
-- 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
-- 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
-- ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Multi-agent terminal focus
-- 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
-- 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
-- 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
-- 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
-- ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
-- ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
-- 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
-- 📝 **[AGENTS.md](https://github.com/stevederico/AGENTS)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
-- 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect LLMs to MongoDB
-- 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
-- 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
-- ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
-- 👉 **[More apps](https://www.bixbyapps.com)**
+🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
+🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
+🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
+🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React starter kit
+  🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
+  📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
+  📝 **[Skateboard Blog](https://github.com/stevederico/skateboard-blog)** - Blog starter template with Astro, MDX, dark mode
+  📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
+📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
+📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
+🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
+  🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
+  📺 **[x-tv](https://xtv.bixbyapps.com)** - Watch your 𝕏 feed on the big screen
+✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
+🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
+🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
+🐷 **[Piglet](https://baby.bixbyapps.com)** – Baby tracking with charts and data visualization
+⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
+🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
+📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
+🎓 **[AppSchool](https://github.com/stevederico/appschool-web)** – Learn to make apps, 500+ students taught
+💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
+🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
+🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
+🏗️ **[Shipyard](https://github.com/stevederico/shipyard)** - Autonomous code factory — issues go in, PRs come out
+🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
+🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
+⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Multi-agent terminal focus
+🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
+🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
+🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
+🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
+⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
+⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
+🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
+📝 **[AGENTS.md](https://github.com/stevederico/AGENTS)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
+🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect LLMs to MongoDB
+🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
+🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
+❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
+👉 **[More apps](https://www.bixbyapps.com)**
 
 <details>
 <summary>Legacy iOS & Ruby Apps</summary>
