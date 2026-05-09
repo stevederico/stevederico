@@ -15,7 +15,7 @@
 > Shipping apps for 15+ years — 100+ apps, 5M+ downloads. Objc/Swift for 10+ years, now building AI-powered tools with JS.
 
 ## Projects
-- 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
+🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
