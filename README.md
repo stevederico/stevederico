@@ -69,6 +69,9 @@
 - 🌲 **[Pine](https://climate.bixbyapps.com)** – Green energy tracker
 - 📦 **[SiteGen](https://sitegen.bixbyapps.com)** – Generate static sites
 - 🏠 **[HomeStay](https://rental.bixbyapps.com)** – Stay without fees
+- 🏫 **[SF Schools](https://schools.bixbyapps.com)** – Find & compare San Francisco schools on a map
+- 📊 **[Stocks](https://stocks.bixbyapps.com)** – Smart trading signals
+- 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
 - 👉 **[More apps](https://www.bixbyapps.com)**
 
 <details>
