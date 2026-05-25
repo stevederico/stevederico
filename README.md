@@ -56,6 +56,19 @@
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
+- 🛟 **[Supporter](https://support.bixbyapps.com)** – Automatic customer support
+- 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
+- 📺 **[GenTube](https://content.bixbyapps.com)** – Watch AI-generated videos
+- 🎟️ **[Clubs](https://clubs.bixbyapps.com)** – Sell monthly memberships
+- 🎤 **[Podcaster](https://podcast.bixbyapps.com)** – Live podcast assistant
+- 🐶 **[Friend](https://friend.bixbyapps.com)** – Make a friend
+- 💰 **[Sales](https://sales.bixbyapps.com)** – Track leads & deals
+- 🍎 **[Food Scanner](https://food.bixbyapps.com)** – Watch what you eat
+- 🎲 **[Vegas Buddy](https://vegas.bixbyapps.com)** – Happy hours & deals
+- 💖 **[Favs](https://favs.bixbyapps.com)** – Share your favorites
+- 🌲 **[Pine](https://climate.bixbyapps.com)** – Green energy tracker
+- 📦 **[SiteGen](https://sitegen.bixbyapps.com)** – Generate static sites
+- 🏠 **[HomeStay](https://rental.bixbyapps.com)** – Stay without fees
 - 👉 **[More apps](https://www.bixbyapps.com)**
 
 <details>
