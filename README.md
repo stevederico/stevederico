@@ -3,16 +3,15 @@
 📍 **San Francisco** | 🤖 **Founder at [Dottie AI](https://dottie.ai)** | 📚 **O'Reilly Author**
 
 [![X](https://img.shields.io/badge/-@stevederico-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/stevederico)
-[![GitHub](https://img.shields.io/badge/-stevederico-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stevederico)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-B7410E?style=flat-square&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 
-> Shipping apps for 15+ years — 100+ apps, 5M+ downloads. Objc/Swift for 10+ years, now building AI-powered tools with JS.
+> Building AI agents with TS + Rust. Shipped 100+ apps, 5M+ downloads, 15+ years Obj-C/Swift.
 
 ## Projects
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
