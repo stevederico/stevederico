@@ -34,6 +34,7 @@
   - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
+- 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
 - 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
 - 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
   - 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
@@ -57,7 +58,6 @@
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
 - 🛟 **[Supporter](https://support.bixbyapps.com)** – Automatic customer support
-- 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
 - 📺 **[GenTube](https://content.bixbyapps.com)** – Watch AI-generated videos
 - 🎟️ **[Clubs](https://clubs.bixbyapps.com)** – Sell monthly memberships
 - 🎤 **[Podcaster](https://podcast.bixbyapps.com)** – Live podcast assistant
@@ -71,9 +71,7 @@
 - 🏠 **[HomeStay](https://rental.bixbyapps.com)** – Stay without fees
 - 🏫 **[SF Schools](https://schools.bixbyapps.com)** – Find & compare San Francisco schools on a map
 - 📊 **[Stocks](https://stocks.bixbyapps.com)** – Smart trading signals
-
 - 👉 **[More apps](https://www.bixbyapps.com)**
-
 <details>
 <summary>Legacy iOS & Ruby Apps</summary>
 
