@@ -36,6 +36,7 @@
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
 - 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
+- 💬 **[Feedback Assitant](https://github.com/stevederico/feedback-assitant)** – AI assistant for user/stakeholder feedback
 - 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
 - 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
   - 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
@@ -98,10 +99,10 @@
 
 ## What I'm Doing
 
-- **Building AI tools** - Exploring how LLMs change everything about app development
-- **Teaching** - Helping developers ship their first apps
-- **Writing** - Author of *Introducing iOS: Swift Programming from Idea to App Store*
-- **Community** - Organizing NSMeetup, SF's largest iOS meetup (4,000+ members)
+- **Build** — AI agents, coding factories, and developer tools (Dottie, DotBot, Shipyard)
+- **Open source** — agent skills, CLIs, MCP integrations, autonomous workflows
+- **Founder** — [Dottie AI](https://dottie.ai). Speed is a core value
+- **Community** — SF builder scene (NSMeetup, 4,000+ members)
 
 ---
 
@@ -126,7 +127,7 @@
 
 ### Philosophy
 
-> "Ship it." - I build apps that solve real problems. 100+ shipped and counting.
+> "Just Keep Shipping." - I build apps that solve real problems. 100+ shipped and counting.
 
 ### Random Facts
 - Never had a cup of coffee
