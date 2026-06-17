@@ -39,7 +39,6 @@
 - 💬 **[Feedback Assitant](https://github.com/stevederico/feedback-assitant)** – AI assistant for user/stakeholder feedback
 - 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
 - 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
-  - 🎯 **[xQR](https://github.com/stevederico/xQR)** - Lock Screen QR to your 𝕏 profile -- great for meetups
   - 📺 **[x-tv](https://xtv.bixbyapps.com)** - Watch your 𝕏 feed on the big screen
 - ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
 - 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
