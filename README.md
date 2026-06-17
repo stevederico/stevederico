@@ -18,7 +18,7 @@
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
-  - 𝕏 **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
+  - **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - 🏗️ **[Shipyard](https://github.com/stevederico/shipyard)** - Autonomous code factory — issues go in, PRs come out
