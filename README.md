@@ -19,7 +19,7 @@
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
   - **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
-- 📱 **[Silo](https://github.com/stevederico/silo)** - Private AI assistant for iOS, fully on-device
+- 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - 🏗️ **[Shipyard](https://github.com/stevederico/shipyard)** - Autonomous code factory — issues go in, PRs come out
 - 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
