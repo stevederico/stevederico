@@ -26,7 +26,7 @@
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
 - 📝 **[AGENTS.md](https://github.com/stevederico/AGENTS)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
-- 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect LLMs to MongoDB
+- 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect agents to MongoDB
 - ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Multi-agent terminal focus
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React starter kit
   - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
