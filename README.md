@@ -3,11 +3,11 @@
 📍 **San Francisco** | 🤖 **Founder at [Dottie AI](https://dottie.ai)** | 📚 **O'Reilly Author**
 
 [![X](https://img.shields.io/badge/-@stevederico-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/stevederico)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 
