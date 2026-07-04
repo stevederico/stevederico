@@ -17,7 +17,7 @@
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
-- 🇺🇸 **[awesome-usa](https://github.com/stevederico/awesome-usa)** – List of American companies build open-source + frontier models, usa-bench score 
+- 🇺🇸 **[awesome-usa](https://github.com/stevederico/awesome-usa)** – List of American AI companies building open-source + frontier models
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
   - **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
