@@ -56,6 +56,9 @@
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
 - ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
+- 📖 **[Book Player](https://github.com/stevederico/book-player)** - Narrated book/essay player with synced transcript and chapter images
+- 📸 **[Clipboard Screenshot](https://github.com/stevederico/clipboard-screenshot)** - Auto-copies macOS screenshots to clipboard and clears your Desktop
+- 💡 **[X Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving X.com
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
