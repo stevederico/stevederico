@@ -22,6 +22,7 @@
   - **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
 - 🗣️ **[ask-transcribe-cli](https://github.com/stevederico/ask-transcribe-cli)** - ask and transcribe from your terminal
+- 🎬 **[video-understanding](https://github.com/stevederico/video-understanding)** - Turn any video into full AI understanding — frames + transcript for your agent
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - 🏗️ **[Detroit](https://github.com/stevederico/detroit)** - Autonomous code factory — issues in, PR out
 - 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
