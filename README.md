@@ -102,7 +102,7 @@
 
 ## What I'm Doing
 
-- **Build** — AI agents, coding factories, and developer tools (Dottie, DotBot, Shipyard)
+- **Build** — AI agents, coding factories, and developer tools (Dottie, DotBot, Detroit)
 - **Open source** — agent skills, CLIs, MCP integrations, autonomous workflows
 - **Founder** — [Dottie AI](https://dottie.ai). Speed is a core value
 - **Community** — SF builder scene (NSMeetup, 4,000+ members)
