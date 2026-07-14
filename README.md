@@ -21,7 +21,7 @@
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
   - **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
-- 🗣️ **[ask-transcribe-cli](https://github.com/stevederico/ask-transcribe-cli)** - ask and transcribe from your terminal
+- 🗣️ **[local-ai-cli](https://github.com/stevederico/local-ai-cli)** - local LLM (`ask`) + STT (`transcribe`) on Apple Silicon
 - 🎬 **[video-understanding](https://github.com/stevederico/video-understanding)** - Turn any video into full AI understanding — frames + transcript for your agent
 - 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
