@@ -27,6 +27,7 @@
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - 🏗️ **[Detroit](https://github.com/stevederico/detroit)** - Autonomous code factory — issues in, PR out
 - 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
+- 🍣 **[Hon Maguro](https://github.com/stevederico/hon-maguro)** – Japanese tuna quality standards for software — fixed bars, binary pass/fail
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
 - 📝 **[AGENTS.md](https://github.com/stevederico/AGENTS)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
