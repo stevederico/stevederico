@@ -41,7 +41,7 @@
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
 - 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
-- 💬 **[Feedback Assistant](https://github.com/stevederico/feedback-assistant)** – Drop-in feedback widget + dashboard (React, Hono, SQLite)
+- 💬 **[Feedback Assistant](https://github.com/stevederico/feedback-assistant)** – Drop-in feedback widget + dashboard
 - 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
 - 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
   - 📺 **[x-tv](https://xtv.bixbyapps.com)** - Watch your 𝕏 feed on the big screen
