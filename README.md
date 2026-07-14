@@ -53,6 +53,7 @@
 - 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
+- 📂 **[Session Review](https://github.com/stevederico/session-review)** - Browse, search, and analyze local Claude + Grok coding-agent sessions
 - 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
 - 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
