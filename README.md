@@ -62,6 +62,7 @@
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
 - ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
+- 🌭 **[FanFood](https://github.com/stevederico/fan-food-web)** - Order stadium concession food to your seat
 - 📖 **[Book Player](https://github.com/stevederico/book-player)** - Narrated book/essay player with synced transcript and chapter images
 - 📸 **[Clipboard Screenshot](https://github.com/stevederico/clipboard-screenshot)** - Auto-copies macOS screenshots to clipboard and clears your Desktop
 - 💡 **[X Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving X.com
