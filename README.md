@@ -38,7 +38,7 @@
   - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
   - 📝 **[Skateboard Blog](https://github.com/stevederico/skateboard-blog)** - Blog starter template with Astro, MDX, dark mode
   - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
-- 🅿️ **[Spots](https://github.com/stevederico/spots-web)** – Airbnb-style parking marketplace — [spots.bixbyapps.com](https://spots.bixbyapps.com)
+- 🅿️ **[Spots](https://github.com/stevederico/spots-web)** – Airbnb-style parking marketplace
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
 - 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
