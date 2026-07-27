@@ -66,7 +66,6 @@
 - 🌭 **[FanFood](https://github.com/stevederico/fan-food-web)** - Order stadium concession food to your seat
 - 📖 **[Book Player](https://github.com/stevederico/book-player)** - Narrated book/essay player with synced transcript and chapter images
 - 📸 **[Clipboard Screenshot](https://github.com/stevederico/clipboard-screenshot)** - Auto-copies macOS screenshots to clipboard and clears your Desktop
-
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
