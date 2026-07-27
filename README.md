@@ -45,8 +45,7 @@
 - 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
 - 💬 **[Feedback Assistant](https://github.com/stevederico/feedback-assistant)** – Drop-in feedback widget + dashboard
 - 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
-- 🔮 **[Onyx](https://onyx.bixbyapps.com)** – 𝕏 toolkit — Watch Your X Feed, QR code wallpapers, and algo education
-  - 📺 **[x-tv](https://xtv.bixbyapps.com)** - Watch your 𝕏 feed on the big screen
+- 📺  **[Onyx](https://onyx.bixbyapps.com)** – Watch your 𝕏 feed on the big screen
 - ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
 - 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
 - 🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
