@@ -20,7 +20,7 @@
 - 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
 - 🔨 **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
-- 💡 **[X Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving 𝕏
+- 💡 **[𝕏 Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving 𝕏
 - 📺 **[Onyx](https://onyx.bixbyapps.com)** – Watch your 𝕏 feed on TV
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
 - 🗣️ **[local-ai-cli](https://github.com/stevederico/local-ai-cli)** - local LLM (`ask`) + STT (`transcribe`) on Apple Silicon
