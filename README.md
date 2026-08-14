@@ -16,7 +16,7 @@
 ## Projects
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
-- 🖱️ **[Dottie MCP](https://github.com/stevederico/dottie-mcp)** - Local Mac desktop control for Grok and Cursor via MCP
+- 🖱️ **[Dottie MCP](https://github.com/stevederico/dottie-mcp)** - Local Mac desktop control via MCP (AX + HID)
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
