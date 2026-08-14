@@ -15,7 +15,6 @@
 
 ## Projects
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
-- 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
@@ -24,6 +23,7 @@
 - 💡 **[𝕏 Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving 𝕏
 - 📺 **[Onyx](https://onyx.bixbyapps.com)** – Watch your 𝕏 feed on TV
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
+- 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
 - 🗣️ **[local-ai-cli](https://github.com/stevederico/local-ai-cli)** - local LLM (`ask`) + STT (`transcribe`) on Apple Silicon
 - 🎬 **[video-understanding](https://github.com/stevederico/video-understanding)** - Turn any video into full AI understanding — frames + transcript for your agent
 - 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
