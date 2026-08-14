@@ -43,6 +43,7 @@
   - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
   - 📝 **[Skateboard Blog](https://github.com/stevederico/skateboard-blog)** - Blog starter template with Astro, MDX, dark mode
   - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
+- 🪐 **[Space UI](https://github.com/stevederico/space-ui)** - Space design system. Product marketing UI as React components
 - 🅿️ **[Spots](https://github.com/stevederico/spots-web)** – Airbnb-style parking marketplace
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
@@ -63,8 +64,10 @@
 - 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
 - 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
+- 🚀 **[Starship Sim](https://github.com/stevederico/starship-sim)** - Orbital Block 2 Starship sim. Three.js + Grok Imagine textures
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
 - 🐱 **[Snap Cat](https://github.com/stevederico/snapcat)** - Menu bar window snap for macOS (⌘←/→/↑/↓), mascot Snapu
+- ✅ **[Todo Bar](https://github.com/stevederico/todo-bar)** - Mac menu bar. Open todos from markdown
 - ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
 - 🌭 **[FanFood](https://github.com/stevederico/fan-food-web)** - Order stadium concession food to your seat
 - 📖 **[Book Player](https://github.com/stevederico/book-player)** - Narrated book/essay player with synced transcript and chapter images
