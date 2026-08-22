@@ -68,6 +68,7 @@
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
 - 🐱 **[Snap Cat](https://github.com/stevederico/snapcat)** - Menu bar window snap for macOS (⌘←/→/↑/↓), mascot Snapu
+- 🗣️ **[Talk Keys](https://github.com/stevederico/talk-keys)** - Tap Right Option to speak selected text. Hold Right Command to dictate. Mascot Talku
 - ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
 - 🌭 **[FanFood](https://github.com/stevederico/fan-food-web)** - Order stadium concession food to your seat
 - 📖 **[Book Player](https://github.com/stevederico/book-player)** - Narrated book/essay player with synced transcript and chapter images
