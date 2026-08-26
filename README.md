@@ -46,6 +46,7 @@
 - 🪐 **[Space UI](https://github.com/stevederico/space-ui)** - Space design system. Product marketing UI as React components
 - 🚀 **[Starship Sim](https://github.com/stevederico/starship-sim)** - Orbital Block 2 Starship sim. Three.js + Grok Imagine textures
 - ✅ **[Todo Bar](https://github.com/stevederico/todo-bar)** - Mac menu bar. Open todos from markdown
+- 👁 **[Lookout](https://github.com/stevederico/lookout)** - Click an element in your Vite app, type a note, Grok edits the source
 - 🅿️ **[Spots](https://github.com/stevederico/spots-web)** – Airbnb-style parking marketplace
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
