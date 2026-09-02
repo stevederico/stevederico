@@ -11,7 +11,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 
-> Building AI agents with TS + Rust. Shipped 100+ apps, 5M+ downloads, 15+ years Obj-C/Swift.
+> Building agents with TS + Rust. Shipped 100+ apps, 5M+ downloads, 15+ years Obj-C/Swift.
 
 ## Projects
 - 🎙️ **[Dottie](https://desktop.dottie.ai)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
