@@ -91,6 +91,7 @@
 - 📦 **[SiteGen](https://sitegen.bixbyapps.com)** – Generate static sites
 - 🏠 **[HomeStay](https://rental.bixbyapps.com)** – Stay without fees
 - 🏫 **[SF Schools](https://schools.bixbyapps.com)** – Find & compare San Francisco schools on a map
+- 📍 **[Venue Directory](https://github.com/stevederico/venue-directory)** – SF meetup rooms: map, list, and agent contact API (zero-crate Rust)
 - 📊 **[Stocks](https://stocks.bixbyapps.com)** – Smart trading signals
 - 👉 **[More apps](https://www.bixbyapps.com)**
 <details>
