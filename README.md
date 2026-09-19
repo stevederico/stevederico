@@ -59,7 +59,7 @@
 - 🐷 **[Piglet](https://baby.bixbyapps.com)** – Baby tracking with charts and data visualization
 - ⚓ **[Anchor](https://anchor.bixbyapps.com)** – Email marketing made simple
 - 📈 **[Roundtable](https://roundtable.bixbyapps.com)** – Startup investment game
-- 🎓 **[AppSchool](https://github.com/stevederico/appschool-web)** – Learn to make apps, 500+ students taught
+- 🎓 **[AppSchool](https://github.com/stevederico/appschool)** – Learn to make apps, 500+ students taught
 - 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
