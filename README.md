@@ -70,6 +70,7 @@
 - 🗣️ **[Talk Keys](https://github.com/stevederico/talk-keys)** - Tap Right Option to speak selected text. Hold Right Command to dictate. Mascot Talku
 - ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
 - 🌭 **[FanFood](https://github.com/stevederico/fan-food-web)** - Order stadium concession food to your seat
+- 📖 **[TLDR-TV](https://github.com/stevederico/tldr-tv)** - Turn any article or book into a narrated video with synced transcript, captions, and chapter images
 - 📸 **[Clipboard Screenshot](https://github.com/stevederico/clipboard-screenshot)** - Auto-copies macOS screenshots to clipboard and clears your Desktop
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
@@ -96,7 +97,6 @@
 - 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
 - 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
 - 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
-- 📖 **[Book Player](https://github.com/stevederico/book-player)** - Narrated book/essay player with synced transcript and chapter images
 - 📰 **[HNReaderPlus](https://github.com/stevederico/HNReaderPlus)** - Simple Hacker News reader for iOS
 - 🎯 **[GetFocused](https://github.com/stevederico/GetFocused)** - Block distracting websites and get focused
 - 📸 **[Shoebox](https://github.com/stevederico/Shoebox)** - Simple photo sharing app
