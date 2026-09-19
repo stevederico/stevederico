@@ -28,7 +28,6 @@
 - 🗣️ **[Talk](https://github.com/stevederico/dottie-talk)** - local LLM (`speak`) + STT (`transcribe`) server. MCP, CLI, HTTP
 - 🎬 **[video-understanding](https://github.com/stevederico/video-understanding)** - Turn any video into full AI understanding — frames + transcript for your agent
 - 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
-- 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - 🏗️ **[Detroit](https://github.com/stevederico/detroit)** - Autonomous code factory — issues in, PR out
 - 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
 - 🍣 **[Hon Maguro](https://github.com/stevederico/hon-maguro)** – Japanese tuna quality standards for software — fixed bars, binary pass/fail
@@ -52,7 +51,6 @@
 - 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
 - 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
 - 💬 **[Feedback Assistant](https://github.com/stevederico/feedback-assistant)** – Drop-in feedback widget + dashboard
-- 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
 - ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
 - 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
 - 🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
@@ -65,7 +63,6 @@
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
 - 📂 **[Session Review](https://github.com/stevederico/session-review)** - Browse, search, and analyze local Claude + Grok coding-agent sessions
 - 🎛️ **[Usage Dashboard](https://github.com/stevederico/usage-dashboard)** - Usage for all your agents
-- 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
 - 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
@@ -73,9 +70,7 @@
 - 🗣️ **[Talk Keys](https://github.com/stevederico/talk-keys)** - Tap Right Option to speak selected text. Hold Right Command to dictate. Mascot Talku
 - ⚾️ **[Scorecard](https://github.com/stevederico/scorecard)** - Keep score at baseball games
 - 🌭 **[FanFood](https://github.com/stevederico/fan-food-web)** - Order stadium concession food to your seat
-- 📖 **[Book Player](https://github.com/stevederico/book-player)** - Narrated book/essay player with synced transcript and chapter images
 - 📸 **[Clipboard Screenshot](https://github.com/stevederico/clipboard-screenshot)** - Auto-copies macOS screenshots to clipboard and clears your Desktop
-- 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
 - 🎗️ **[HIVAware](https://github.com/stevederico/hivaware)** - Find HIV testing sites and get answers -- HIVAware.org
 - ❤️ **[BeatHF](https://github.com/stevederico/beatHF)** - Monitoring for Congestive Heart Failure Patients - Stanford Bio Buildathon
 - 🛟 **[Supporter](https://support.bixbyapps.com)** – Automatic customer support
@@ -95,8 +90,13 @@
 - 📊 **[Stocks](https://stocks.bixbyapps.com)** – Smart trading signals
 - 👉 **[More apps](https://www.bixbyapps.com)**
 <details>
-<summary>Legacy iOS & Ruby Apps</summary>
+<summary>Archived</summary>
 
+- 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
+- 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
+- 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
+- 🍕 **[Kiosk](https://github.com/stevederico/kiosk)** - Costco Food Court Kiosk
+- 📖 **[Book Player](https://github.com/stevederico/book-player)** - Narrated book/essay player with synced transcript and chapter images
 - 📰 **[HNReaderPlus](https://github.com/stevederico/HNReaderPlus)** - Simple Hacker News reader for iOS
 - 🎯 **[GetFocused](https://github.com/stevederico/GetFocused)** - Block distracting websites and get focused
 - 📸 **[Shoebox](https://github.com/stevederico/Shoebox)** - Simple photo sharing app
