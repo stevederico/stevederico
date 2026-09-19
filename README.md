@@ -16,7 +16,7 @@
 ## Projects
 - 🎙️ **[Dottie](https://github.com/stevederico/dottie-desktop-releases)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
-- 🖱️ **[Dottie Mac Use](https://github.com/stevederico/dottie-mac-use)** - Local Mac desktop control via MCP (AX + HID)
+- 🖱️ **[Mac Use](https://github.com/stevederico/dottie-mac-use)** - Local Mac desktop control via MCP (AX + HID)
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
@@ -25,7 +25,7 @@
 - 📺 **[Watch X](https://watchx.grok.me)** – Watch your 𝕏 feed on TV
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
 - 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
-- 🗣️ **[local-ai-cli](https://github.com/stevederico/local-ai-cli)** - local LLM (`ask`) + STT (`transcribe`) on Apple Silicon
+- 🗣️ **[Talk](https://github.com/stevederico/dottie-talk)** - local LLM (`speak`) + STT (`transcribe`) server. MCP, CLI, HTTP
 - 🎬 **[video-understanding](https://github.com/stevederico/video-understanding)** - Turn any video into full AI understanding — frames + transcript for your agent
 - 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
