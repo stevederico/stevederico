@@ -153,5 +153,5 @@
 - Never had a cup of coffee
 - Ran a 4:15 mile — captain of collegiate cross country and track
 - FIRST Robotics national runner-up
-- 10,000+ lines of open-source code contributed
+- 100+ open-source repos 
 - Top 1% of Nirvana listeners
