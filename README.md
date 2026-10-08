@@ -15,7 +15,7 @@
 
 ## Projects
 
-### 🤖 Dottie + Agents
+### 🤖 Dottie
 - 🎙️ **[Dottie](https://github.com/stevederico/dottie-desktop-releases)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🖱️ **[Mac Use](https://github.com/stevederico/dottie-mac-use)** - Local Mac desktop control via MCP (AX + HID)

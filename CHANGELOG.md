@@ -1,3 +1,7 @@
+0.6.0
+
+  Rename Dottie section
+
 0.5.0
 
   Add Grok section
