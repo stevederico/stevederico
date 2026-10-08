@@ -11,21 +11,26 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 
-> Building agents with TS + Rust. Shipped 100+ apps, 5M+ downloads, 15+ years Obj-C/Swift.
+> Building agents with TS + Rust, daily driving Omarchy. Shipped 100+ apps, 5M+ downloads, 15+ years Obj-C/Swift.
 
 ## Projects
 - 🎙️ **[Dottie](https://github.com/stevederico/dottie-desktop-releases)** – Agent that controls your Mac, Voice-first, powered by local AI. 100% Free
 - 🤖 **[DotBot](https://github.com/stevederico/dotbot)** - AI agent engine, ultra-lean 11k LOC, 47 tools, 0 dependencies
 - 🖱️ **[Mac Use](https://github.com/stevederico/dottie-mac-use)** - Local Mac desktop control via MCP (AX + HID)
+- 💻 **[Dottie Local](https://github.com/stevederico/dottie-local)** - Local model inference + DotBot harness. HTTP, MCP, CLI
+- 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools
+- 📲 **[FADriver iOS](https://github.com/stevederico/FADriver-iOS)** - Full Agent Driver. Let any agent drive iOS apps (Messages, Reminders, Maps) over WebSocket
+- 👀 **[YOLO Server](https://github.com/stevederico/yolo-server)** - Zero-crate Rust HTTP service for YOLO26 detection + segmentation over ONNX Runtime
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
-- 🔨 **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
 - 💡 **[𝕏 Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving 𝕏
 - 📺 **[Watch X](https://watchx.grok.me)** – Watch your 𝕏 feed on TV
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
 - 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
+- 🗓️ **[Almanac for Omarchy](https://github.com/stevederico/dottie-calendar-omarchy)** - Calendar for Omarchy. Day, week, month, year. Local events + ICS feeds
 - 🗣️ **[Talk](https://github.com/stevederico/dottie-talk)** - local LLM (`speak`) + STT (`transcribe`) server. MCP, CLI, HTTP
+- ⌨️ **[Local AI CLI](https://github.com/stevederico/local-ai-cli)** - Two tiny CLIs: `ask` (local LLM) + `transcribe` (STT). llama.cpp + whisper.cpp, no cloud
 - 🎬 **[video-understanding](https://github.com/stevederico/video-understanding)** - Turn any video into full AI understanding — frames + transcript for your agent
 - 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
 - 🏗️ **[Detroit](https://github.com/stevederico/detroit)** - Autonomous code factory — issues in, PR out
@@ -34,17 +39,27 @@
 - ✈️ **[Fly Now](https://flynow.bixbyapps.com)** - All-in flight prices from SFO. Taxi + Flight, Leave Today
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
-- 📝 **[AGENTS.md](https://github.com/stevederico/AGENTS)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
+- 📆 **[What Did You Get Done](https://github.com/stevederico/what-did-you-get-done)** - Agent skill: a week of git activity into a shareable report or weekly post
+- 🎵 **[Music Maker](https://github.com/stevederico/music-maker)** - Agent skill: idea to original track, prompt pack to mix
+- 🍏 **[App Store Review Bot](https://github.com/stevederico/app-store-review-bot)** - Agent skill for App Store pre-submit audits + rejection responses
+- 📝 **[AGENTS.md](https://github.com/stevederico/agents-md)** - Prompts for writing code with LLMs, Deno, Vite, React 19+
 - 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect agents to MongoDB
 - ⚓ **[Ahoy](https://github.com/stevederico/ahoy)** - Multi-agent terminal focus
+- 🖥️ **[Omarchy Displays](https://github.com/stevederico/omarchy-displays)** - Arrange monitors like macOS Displays
+- 🏋️ **[Omarchy Gym](https://github.com/stevederico/omarchy-gym)** - Progressive Omarchy keybinding workouts
+- 👆 **[Omarchy Mac Trackpad](https://github.com/stevederico/omarchy-mac-trackpad)** - Mac-style trackpad for Omarchy on Intel T2 MacBooks
+- 📽️ **[Omarchy HDMI Room](https://github.com/stevederico/omarchy-hdmi-room)** - Agent prompt to get Omarchy onto Crestron / room HDMI switchers
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React starter kit
   - 🧩 **[Skateboard UI](https://github.com/stevederico/skateboard-ui)** - Components for building web apps
   - 📲 **[Skateboard iOS](https://github.com/stevederico/skateboard-ios)** - Native iOS wrapper for web apps
   - 📝 **[Skateboard Blog](https://github.com/stevederico/skateboard-blog)** - Blog starter template with Astro, MDX, dark mode
   - 📦 **[create-skateboard-app](https://github.com/stevederico/create-skateboard-app)** - The fastest way to create a Skateboard app
 - 🪐 **[Space UI](https://github.com/stevederico/space-ui)** - Space design system. Product marketing UI as React components
+- 🌌 **[Space Theme](https://github.com/stevederico/omarchy-space-theme)** - Omarchy theme from the Space design system
+- 🔥 **[Burn Theme](https://github.com/stevederico/omarchy-burn-theme)** - Omarchy theme. Super Heavy night static fire
 - 🚀 **[Starship Sim](https://github.com/stevederico/starship-sim)** - Orbital Block 2 Starship sim. Three.js + Grok Imagine textures
 - ✅ **[Todo Bar](https://github.com/stevederico/todo-bar)** - Mac menu bar. Open todos from markdown
+- ☑️ **[Todo Bar for Omarchy](https://github.com/stevederico/dottie-todo-omarchy)** - Omarchy bar. Open todos from markdown
 - 👁 **[Lookout](https://github.com/stevederico/lookout)** - Click an element in your Vite app, type a note, Grok edits the source
 - 🅿️ **[Spots](https://github.com/stevederico/spots-web)** – Airbnb-style parking marketplace
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
@@ -61,10 +76,21 @@
 - 💼 **[Consulting](https://www.bixbyapps.com/consulting)** – My work for BMW, Amazon, Coca-Cola, MGM, and the NBA
 - 🔭 **[Spyglass](https://github.com/stevederico/spyglass)** - App Store screenshots and metadata manager
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
+- 🤖 **[Grok Bot Team Builder](https://github.com/stevederico/grok-bot-team-builder)** - Chief of Staff interviews you, then builds Research, Software, Marketing bots
+- 💬 **[Discord Grok Bot](https://github.com/stevederico/discord-grok-bot-oss)** - Discord connector for Grok Build CLI + Grok Bot. Read, search, mention bot
+- 🧠 **[Omarchy Agents Grok](https://github.com/stevederico/omarchy-agents-grok)** - Grok + Cursor support for the Omarchy agent panel
+- 🐑 **[herdr Plugins](https://github.com/stevederico/herdr-plugins)** - herdr plugins: sidebar, git badge, explorer
 - 📂 **[Session Review](https://github.com/stevederico/session-review)** - Browse, search, and analyze local Claude + Grok coding-agent sessions
 - 🎛️ **[Usage Dashboard](https://github.com/stevederico/usage-dashboard)** - Usage for all your agents
 - 🔍 **[Domain-Checker](https://github.com/stevederico/domain-checker)** - Private domain availability tool — no tracking, no logs
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
+- 🪐 **[Solar System Simulator](https://solar-system-simulator.grok.me)** - Interactive 3D solar system with a gravity-assist slingshot game
+- 🌫️ **[Hollowtide](https://github.com/stevederico/hollowtide)** - First-person puzzle island. Three.js, TypeScript, WebAudio, all generated in code
+- 🗡️ **[Indie Quest](https://github.com/stevederico/indie-quest)** - Top-down pixel adventure about shipping products and fighting churn
+- 🏟️ **[Baseball Tycoon](https://github.com/stevederico/baseball-tycoon)** - Baseball stadium management sim
+- 🍣 **[Sushi Rush](https://github.com/stevederico/sushi-rush)** - Frantic sushi bar kitchen game for one or two chefs
+- 🚕 **[Taxi Rush](https://github.com/stevederico/taxi-rush)** - Arcade taxi driving in the browser
+- 🎸 **[Rockstar Hero](https://github.com/stevederico/rockstar-hero)** - Five-lane rhythm game with synthesized rock songs
 - ⏱️ **[Clockwork](https://github.com/stevederico/clockwork)** - Menubar time tracker for macOS
 - 🐱 **[Snap Cat](https://github.com/stevederico/snapcat)** - Menu bar window snap for macOS (⌘←/→/↑/↓), mascot Snapu
 - 🗣️ **[Talk Keys](https://github.com/stevederico/talk-keys)** - Tap Right Option to speak selected text. Hold Right Command to dictate. Mascot Talku
@@ -93,6 +119,7 @@
 <details>
 <summary>Archived</summary>
 
+- 📱 **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics
 - 🌐 **[v0 Proxy](https://github.com/stevederico/v0-proxy)** - Use v0's API with Claude Code
@@ -121,6 +148,7 @@
 
 - **Build** — AI agents, coding factories, and developer tools (Dottie, DotBot, Detroit)
 - **Open source** — agent skills, CLIs, MCP integrations, autonomous workflows
+- **Omarchy** — themes, plugins, and upstream PRs to [omarchy](https://github.com/omacom/omarchy) + [try-omarchy](https://github.com/omacom/try-omarchy)
 - **Founder** — [Dottie AI](https://dottie.ai). Speed is a core value
 - **Community** — SF builder scene (NSMeetup, 4,000+ members)
 
