@@ -1,3 +1,7 @@
+0.8.0
+
+  Move X Apps up
+
 0.7.0
 
   Move Omarchy up

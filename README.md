@@ -33,6 +33,12 @@
 - 🌌 **[Space Theme](https://github.com/stevederico/omarchy-space-theme)** - Omarchy theme from the Space design system
 - 🔥 **[Burn Theme](https://github.com/stevederico/omarchy-burn-theme)** - Omarchy theme. Super Heavy night static fire
 
+### 𝕏 Apps
+- 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
+- 💡 **[𝕏 Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving 𝕏
+- 📺 **[Watch X](https://watchx.grok.me)** – Watch your 𝕏 feed on TV
+- 📖 **[TLDR-TV](https://github.com/stevederico/tldr-tv)** - Turn any article or book into a narrated video with synced transcript, captions, and chapter images
+
 ### 🏭 Agent Tooling
 - 🏗️ **[Detroit](https://github.com/stevederico/detroit)** - Autonomous code factory — issues in, PR out
 - 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
@@ -83,12 +89,6 @@
 - 🐱 **[Snap Cat](https://github.com/stevederico/snapcat)** - Menu bar window snap for macOS (⌘←/→/↑/↓), mascot Snapu
 - 🗣️ **[Talk Keys](https://github.com/stevederico/talk-keys)** - Tap Right Option to speak selected text. Hold Right Command to dictate. Mascot Talku
 - 📸 **[Clipboard Screenshot](https://github.com/stevederico/clipboard-screenshot)** - Auto-copies macOS screenshots to clipboard and clears your Desktop
-
-### 𝕏 Apps
-- 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
-- 💡 **[𝕏 Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving 𝕏
-- 📺 **[Watch X](https://watchx.grok.me)** – Watch your 𝕏 feed on TV
-- 📖 **[TLDR-TV](https://github.com/stevederico/tldr-tv)** - Turn any article or book into a narrated video with synced transcript, captions, and chapter images
 
 ### 🎮 Games
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
