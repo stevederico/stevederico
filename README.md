@@ -22,6 +22,17 @@
 - 💻 **[Dottie Local](https://github.com/stevederico/dottie-local)** - Local model inference + DotBot harness. HTTP, MCP, CLI
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 
+### 🐧 Omarchy
+- 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools
+- 🗓️ **[Almanac for Omarchy](https://github.com/stevederico/dottie-calendar-omarchy)** - Calendar for Omarchy. Day, week, month, year. Local events + ICS feeds
+- ☑️ **[Todo Bar for Omarchy](https://github.com/stevederico/dottie-todo-omarchy)** - Omarchy bar. Open todos from markdown
+- 🖥️ **[Omarchy Displays](https://github.com/stevederico/omarchy-displays)** - Arrange monitors like macOS Displays
+- 🏋️ **[Omarchy Gym](https://github.com/stevederico/omarchy-gym)** - Progressive Omarchy keybinding workouts
+- 👆 **[Omarchy Mac Trackpad](https://github.com/stevederico/omarchy-mac-trackpad)** - Mac-style trackpad for Omarchy on Intel T2 MacBooks
+- 📽️ **[Omarchy HDMI Room](https://github.com/stevederico/omarchy-hdmi-room)** - Agent prompt to get Omarchy onto Crestron / room HDMI switchers
+- 🌌 **[Space Theme](https://github.com/stevederico/omarchy-space-theme)** - Omarchy theme from the Space design system
+- 🔥 **[Burn Theme](https://github.com/stevederico/omarchy-burn-theme)** - Omarchy theme. Super Heavy night static fire
+
 ### 🏭 Agent Tooling
 - 🏗️ **[Detroit](https://github.com/stevederico/detroit)** - Autonomous code factory — issues in, PR out
 - 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
@@ -55,17 +66,6 @@
 - 📆 **[What Did You Get Done](https://github.com/stevederico/what-did-you-get-done)** - Agent skill: a week of git activity into a shareable report or weekly post
 - 🎵 **[Music Maker](https://github.com/stevederico/music-maker)** - Agent skill: idea to original track, prompt pack to mix
 - 🍏 **[App Store Review Bot](https://github.com/stevederico/app-store-review-bot)** - Agent skill for App Store pre-submit audits + rejection responses
-
-### 🐧 Omarchy
-- 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools
-- 🗓️ **[Almanac for Omarchy](https://github.com/stevederico/dottie-calendar-omarchy)** - Calendar for Omarchy. Day, week, month, year. Local events + ICS feeds
-- ☑️ **[Todo Bar for Omarchy](https://github.com/stevederico/dottie-todo-omarchy)** - Omarchy bar. Open todos from markdown
-- 🖥️ **[Omarchy Displays](https://github.com/stevederico/omarchy-displays)** - Arrange monitors like macOS Displays
-- 🏋️ **[Omarchy Gym](https://github.com/stevederico/omarchy-gym)** - Progressive Omarchy keybinding workouts
-- 👆 **[Omarchy Mac Trackpad](https://github.com/stevederico/omarchy-mac-trackpad)** - Mac-style trackpad for Omarchy on Intel T2 MacBooks
-- 📽️ **[Omarchy HDMI Room](https://github.com/stevederico/omarchy-hdmi-room)** - Agent prompt to get Omarchy onto Crestron / room HDMI switchers
-- 🌌 **[Space Theme](https://github.com/stevederico/omarchy-space-theme)** - Omarchy theme from the Space design system
-- 🔥 **[Burn Theme](https://github.com/stevederico/omarchy-burn-theme)** - Omarchy theme. Super Heavy night static fire
 
 ### 🛹 Frameworks + Design
 - 🛹 **[Skateboard](https://github.com/stevederico/skateboard)** - React starter kit

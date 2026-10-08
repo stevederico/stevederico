@@ -1,3 +1,7 @@
+0.7.0
+
+  Move Omarchy up
+
 0.6.0
 
   Rename Dottie section
