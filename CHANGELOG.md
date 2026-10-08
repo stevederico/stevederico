@@ -1,3 +1,7 @@
+0.4.0
+
+  Move Dottie extras
+
 0.3.0
 
   Rename tooling section

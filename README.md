@@ -21,15 +21,6 @@
 - 🖱️ **[Mac Use](https://github.com/stevederico/dottie-mac-use)** - Local Mac desktop control via MCP (AX + HID)
 - 💻 **[Dottie Local](https://github.com/stevederico/dottie-local)** - Local model inference + DotBot harness. HTTP, MCP, CLI
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
-- 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
-- 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
-- 🗣️ **[Talk](https://github.com/stevederico/dottie-talk)** - local LLM (`speak`) + STT (`transcribe`) server. MCP, CLI, HTTP
-- ⌨️ **[Local AI CLI](https://github.com/stevederico/local-ai-cli)** - Two tiny CLIs: `ask` (local LLM) + `transcribe` (STT). llama.cpp + whisper.cpp, no cloud
-- 📲 **[FADriver iOS](https://github.com/stevederico/FADriver-iOS)** - Full Agent Driver. Let any agent drive iOS apps (Messages, Reminders, Maps) over WebSocket
-- 👀 **[YOLO Server](https://github.com/stevederico/yolo-server)** - Zero-crate Rust HTTP service for YOLO26 detection + segmentation over ONNX Runtime
-- 🎬 **[video-understanding](https://github.com/stevederico/video-understanding)** - Turn any video into full AI understanding — frames + transcript for your agent
-- 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
-- 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
 
 ### 🏭 Agent Tooling
 - 🏗️ **[Detroit](https://github.com/stevederico/detroit)** - Autonomous code factory — issues in, PR out
@@ -46,6 +37,15 @@
 - 💬 **[Discord Grok Bot](https://github.com/stevederico/discord-grok-bot-oss)** - Discord connector for Grok Build CLI + Grok Bot. Read, search, mention bot
 - 🐑 **[herdr Plugins](https://github.com/stevederico/herdr-plugins)** - herdr plugins: sidebar, git badge, explorer
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
+- 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
+- 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
+- 🗣️ **[Talk](https://github.com/stevederico/dottie-talk)** - local LLM (`speak`) + STT (`transcribe`) server. MCP, CLI, HTTP
+- ⌨️ **[Local AI CLI](https://github.com/stevederico/local-ai-cli)** - Two tiny CLIs: `ask` (local LLM) + `transcribe` (STT). llama.cpp + whisper.cpp, no cloud
+- 📲 **[FADriver iOS](https://github.com/stevederico/FADriver-iOS)** - Full Agent Driver. Let any agent drive iOS apps (Messages, Reminders, Maps) over WebSocket
+- 👀 **[YOLO Server](https://github.com/stevederico/yolo-server)** - Zero-crate Rust HTTP service for YOLO26 detection + segmentation over ONNX Runtime
+- 🎬 **[video-understanding](https://github.com/stevederico/video-understanding)** - Turn any video into full AI understanding — frames + transcript for your agent
+- 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
+- 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
 
 ### 🧩 Agent Skills
 - 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
