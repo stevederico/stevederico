@@ -1,3 +1,8 @@
+0.2.0
+
+  Group projects list
+  Add section headings
+
 0.1.0
 
   Add Omarchy projects
