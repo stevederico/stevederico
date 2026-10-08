@@ -32,9 +32,6 @@
 - 📂 **[Session Review](https://github.com/stevederico/session-review)** - Browse, search, and analyze local Claude + Grok coding-agent sessions
 - 🎛️ **[Usage Dashboard](https://github.com/stevederico/usage-dashboard)** - Usage for all your agents
 - 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect agents to MongoDB
-- 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
-- 🤖 **[Grok Bot Team Builder](https://github.com/stevederico/grok-bot-team-builder)** - Chief of Staff interviews you, then builds Research, Software, Marketing bots
-- 💬 **[Discord Grok Bot](https://github.com/stevederico/discord-grok-bot-oss)** - Discord connector for Grok Build CLI + Grok Bot. Read, search, mention bot
 - 🐑 **[herdr Plugins](https://github.com/stevederico/herdr-plugins)** - herdr plugins: sidebar, git badge, explorer
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
@@ -47,6 +44,12 @@
 - 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
 - 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
 
+### ⚡ Grok + Grok Bot
+- 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
+- 👥 **[Grok Bot Team Builder](https://github.com/stevederico/grok-bot-team-builder)** - Chief of Staff interviews you, then builds Research, Software, Marketing bots
+- 💬 **[Discord Grok Bot](https://github.com/stevederico/discord-grok-bot-oss)** - Discord connector for Grok Build CLI + Grok Bot. Read, search, mention bot
+- 🧠 **[Omarchy Agents Grok](https://github.com/stevederico/omarchy-agents-grok)** - Grok + Cursor support for the Omarchy agent panel
+
 ### 🧩 Agent Skills
 - 🤹 **[Skills](https://github.com/stevederico/skills)** - Agent Skills for Claude and other LLMs
 - 📆 **[What Did You Get Done](https://github.com/stevederico/what-did-you-get-done)** - Agent skill: a week of git activity into a shareable report or weekly post
@@ -57,7 +60,6 @@
 - 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools
 - 🗓️ **[Almanac for Omarchy](https://github.com/stevederico/dottie-calendar-omarchy)** - Calendar for Omarchy. Day, week, month, year. Local events + ICS feeds
 - ☑️ **[Todo Bar for Omarchy](https://github.com/stevederico/dottie-todo-omarchy)** - Omarchy bar. Open todos from markdown
-- 🧠 **[Omarchy Agents Grok](https://github.com/stevederico/omarchy-agents-grok)** - Grok + Cursor support for the Omarchy agent panel
 - 🖥️ **[Omarchy Displays](https://github.com/stevederico/omarchy-displays)** - Arrange monitors like macOS Displays
 - 🏋️ **[Omarchy Gym](https://github.com/stevederico/omarchy-gym)** - Progressive Omarchy keybinding workouts
 - 👆 **[Omarchy Mac Trackpad](https://github.com/stevederico/omarchy-mac-trackpad)** - Mac-style trackpad for Omarchy on Intel T2 MacBooks
