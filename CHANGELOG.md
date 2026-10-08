@@ -1,3 +1,7 @@
+0.3.0
+
+  Rename tooling section
+
 0.2.0
 
   Group projects list

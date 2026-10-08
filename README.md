@@ -31,7 +31,7 @@
 - 🎙️ **[video-transcribe-mac](https://github.com/stevederico/video-transcribe-mac)** - Native macOS app to transcribe video/audio with xAI STT (BYOK) or local whisper
 - 🇺🇸 **[usa-bench](https://github.com/stevederico/usa-bench)** – List of American AI companies building open-source + frontier models
 
-### 🏭 Code Factories + Agent Tooling
+### 🏭 Agent Tooling
 - 🏗️ **[Detroit](https://github.com/stevederico/detroit)** - Autonomous code factory — issues in, PR out
 - 🏭 **[factory.md](https://github.com/stevederico/factory-md)** - A Dockerfile for code factories — portable spec for autonomous coding agent standards
 - 🍣 **[Hon Maguro](https://github.com/stevederico/hon-maguro)** – Japanese tuna quality standards for software — fixed bars, binary pass/fail
