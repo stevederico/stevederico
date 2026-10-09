@@ -1,3 +1,7 @@
+0.12.0
+
+  Add App Store template
+
 0.11.0
 
   Fix Watch X link

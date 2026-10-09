@@ -64,6 +64,7 @@
 ### ⚡ Grok + Grok Bot
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
 - 👥 **[Grok Bot Team Builder](https://github.com/stevederico/grok-bot-team-builder)** - Chief of Staff interviews you, then builds Research, Software, Marketing bots
+- 🍏 **[App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV)** - Grok Bot template. Pre-submit App Store audits + rejection responses, built from 300+ rejections
 - 💬 **[Discord Grok Bot](https://github.com/stevederico/discord-grok-bot-oss)** - Discord connector for Grok Build CLI + Grok Bot. Read, search, mention bot
 - 🧠 **[Omarchy Agents Grok](https://github.com/stevederico/omarchy-agents-grok)** - Grok + Cursor support for the Omarchy agent panel
 
