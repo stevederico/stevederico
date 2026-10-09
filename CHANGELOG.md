@@ -1,3 +1,7 @@
+0.11.0
+
+  Fix Watch X link
+
 0.10.0
 
   Rename Dottie Talk

@@ -37,7 +37,7 @@
 ### 𝕏 Apps
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
 - 💡 **[𝕏 Improvements](https://github.com/stevederico/x-improvements)** - Self-contained prototype of ideas for improving 𝕏
-- 📺 **[Watch X](https://watchx.grok.me)** – Watch your 𝕏 feed on TV
+- 📺 **[Watch X](https://watch.grok.me)** – Watch your 𝕏 feed on TV
 - 📖 **[TLDR-TV](https://github.com/stevederico/tldr-tv)** - Turn any article or book into a narrated video with synced transcript, captions, and chapter images
 
 ### 🏭 Agent Tooling
