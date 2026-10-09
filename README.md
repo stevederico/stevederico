@@ -22,6 +22,7 @@
 - 💻 **[Dottie Local](https://github.com/stevederico/dottie-local)** - Local model inference + DotBot harness. HTTP, MCP, CLI
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🗣️ **[Dottie Talk](https://github.com/stevederico/dottie-talk)** - Talk to your computer. Speak and dictate. Local STT + TTS via MCP, CLI, HTTP
+- 📆 **[Dottie Calendar](https://calendar.dottie.ai)** - Web calendar for Almanac. Day, week, month, year
 
 ### 🐧 Omarchy
 - 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools
@@ -63,7 +64,7 @@
 
 ### ⚡ Grok + Grok Bot
 - 🤖 **[Grok CLI](https://github.com/stevederico/grok-cli)** - Grok CLI coding assistant
-- 👥 **[Grok Bot Team Builder](https://github.com/stevederico/grok-bot-team-builder)** - Chief of Staff interviews you, then builds Research, Software, Marketing bots
+- 👥 **[Grok Bot Team Builder](https://github.com/stevederico/grok-bot-team-builder)** - Chief of Staff interviews you, then builds Research, Software, Marketing bots. [Grok Bot template](https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA)
 - 🍏 **[App Store Review Bot](https://x.ai/bot/KzBEylM_3NFTjATszLICV)** - Grok Bot template. Pre-submit App Store audits + rejection responses, built from 300+ rejections
 - 💬 **[Discord Grok Bot](https://github.com/stevederico/discord-grok-bot-oss)** - Discord connector for Grok Build CLI + Grok Bot. Read, search, mention bot
 - 🧠 **[Omarchy Agents Grok](https://github.com/stevederico/omarchy-agents-grok)** - Grok + Cursor support for the Omarchy agent panel
