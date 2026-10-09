@@ -1,3 +1,7 @@
+0.14.0
+
+  Move Almanac to Dottie
+
 0.13.0
 
   Add Dottie Calendar
