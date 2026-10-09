@@ -1,3 +1,7 @@
+0.9.0
+
+  Move Talk to Dottie
+
 0.8.0
 
   Move X Apps up

@@ -21,6 +21,7 @@
 - 🖱️ **[Mac Use](https://github.com/stevederico/dottie-mac-use)** - Local Mac desktop control via MCP (AX + HID)
 - 💻 **[Dottie Local](https://github.com/stevederico/dottie-local)** - Local model inference + DotBot harness. HTTP, MCP, CLI
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
+- 🗣️ **[Talk](https://github.com/stevederico/dottie-talk)** - local LLM (`speak`) + STT (`transcribe`) server. MCP, CLI, HTTP
 
 ### 🐧 Omarchy
 - 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools
@@ -53,7 +54,6 @@
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
 - 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
-- 🗣️ **[Talk](https://github.com/stevederico/dottie-talk)** - local LLM (`speak`) + STT (`transcribe`) server. MCP, CLI, HTTP
 - ⌨️ **[Local AI CLI](https://github.com/stevederico/local-ai-cli)** - Two tiny CLIs: `ask` (local LLM) + `transcribe` (STT). llama.cpp + whisper.cpp, no cloud
 - 📲 **[FADriver iOS](https://github.com/stevederico/FADriver-iOS)** - Full Agent Driver. Let any agent drive iOS apps (Messages, Reminders, Maps) over WebSocket
 - 👀 **[YOLO Server](https://github.com/stevederico/yolo-server)** - Zero-crate Rust HTTP service for YOLO26 detection + segmentation over ONNX Runtime
