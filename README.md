@@ -21,7 +21,7 @@
 - 🖱️ **[Mac Use](https://github.com/stevederico/dottie-mac-use)** - Local Mac desktop control via MCP (AX + HID)
 - 💻 **[Dottie Local](https://github.com/stevederico/dottie-local)** - Local model inference + DotBot harness. HTTP, MCP, CLI
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
-- 🗣️ **[Talk](https://github.com/stevederico/dottie-talk)** - local LLM (`speak`) + STT (`transcribe`) server. MCP, CLI, HTTP
+- 🗣️ **[Dottie Talk](https://github.com/stevederico/dottie-talk)** - Talk to your computer. Speak and dictate. Local STT + TTS via MCP, CLI, HTTP
 
 ### 🐧 Omarchy
 - 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools

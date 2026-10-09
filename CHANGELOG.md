@@ -1,3 +1,8 @@
+0.10.0
+
+  Rename Dottie Talk
+  Fix Talk description
+
 0.9.0
 
   Move Talk to Dottie
