@@ -35,6 +35,7 @@
 - 📽️ **[Omarchy HDMI Room](https://github.com/stevederico/omarchy-hdmi-room)** - Agent prompt to get Omarchy onto Crestron / room HDMI switchers
 - 🌌 **[Space Theme](https://github.com/stevederico/omarchy-space-theme)** - Omarchy theme from the Space design system
 - 🔥 **[Burn Theme](https://github.com/stevederico/omarchy-burn-theme)** - Omarchy theme. Super Heavy night static fire
+- 🐛 **[Omarchy X Bot](https://github.com/stevederico/omarchy-x-bot)** - Tag @omarchy on 𝕏 with a bug, get an AI-written GitHub issue. Cloudflare Workers, Grok, zero deps
 
 ### 𝕏 Apps
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?

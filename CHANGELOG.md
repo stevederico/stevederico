@@ -1,3 +1,7 @@
+0.15.0
+
+  Add Omarchy X Bot
+
 0.14.0
 
   Move Almanac to Dottie
