@@ -25,6 +25,14 @@
 - 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
 - 📆 **[Dottie Calendar](https://calendar.dottie.ai)** - Web calendar for Almanac. Day, week, month, year
 
+### 🤝 Omarchy Contributor
+- 🧪 **[Try Omarchy](https://github.com/omacom/try-omarchy)**
+  - 🔊 **[Match QEMU audio rates to Mac devices](https://github.com/omacom/try-omarchy/pull/283)** - Guest audio matches the selected Mac output
+  - 🔍 **[Opt-in HVF trace log](https://github.com/omacom/try-omarchy/pull/278)** - Debug Apple Hypervisor issues from the launcher
+  - 🧹 **[Only unmap mapped HVF sections](https://github.com/omacom/try-omarchy/pull/277)** - Fixes an Apple Hypervisor unmap bug
+- 📦 **[omarchy-pkgs](https://github.com/omacom/omarchy-pkgs)**
+  - 🚫 **[Disable Cursor bundled updater](https://github.com/omacom/omarchy-pkgs/pull/370)** - cursor-bin updates through pacman only
+
 ### 🐧 Omarchy
 - 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools
 - 🗓️ **[Almanac for Omarchy](https://github.com/stevederico/dottie-calendar-omarchy)** - Calendar for Omarchy. Day, week, month, year. Local events + ICS feeds
