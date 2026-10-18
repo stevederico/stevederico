@@ -117,7 +117,6 @@
 - 🛍️ **[Ginza](https://ginza.bixbyapps.com)** – Your autonomous personal shopper
 - 🎥 **[Stream Studio](https://stream.bixbyapps.com)** – Run your own streaming network
 - 🏐 **[Replay Assistant](https://replay.bixbyapps.com)** – Sports replay review
-- 💬 **[Feedback Assistant](https://github.com/stevederico/feedback-assistant)** – Drop-in feedback widget + dashboard
 - ✂️ **[Clipper](https://clipper.bixbyapps.com)** – Instant video clips — clip, transcription, subtitles
 - 🏥 **[Care Companion](https://patient.dottie.ai)** – Guide patients through their care journey
 - 🚑 **[Care Marketplace](https://care.bixbyapps.com)** – Compare healthcare prices
@@ -153,6 +152,7 @@
 <details>
 <summary>Archived</summary>
 
+- 💬 **[Feedback Assistant](https://github.com/stevederico/feedback-assistant)** – Drop-in feedback widget + dashboard, now part of Dottie Analytics
 - 📱 **[𝕏 Wallpaper](https://github.com/stevederico/xQR)** –  𝕏 Profile QR for your phone wallpaper — great for meetups
 - 🚢 **[Skipper](https://github.com/stevederico/skipper)** - Manage a team of coding agents
 - 📈 **[Growth Chart](https://github.com/stevederico/growth-chart)** - growth rate tracking for GitHub release with dashboard and analytics

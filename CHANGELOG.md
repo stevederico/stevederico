@@ -1,3 +1,11 @@
+0.17.0
+
+  Archive Feedback Assistant
+
+0.16.0
+
+  Add Omarchy Contributor
+
 0.15.0
 
   Add Omarchy X Bot
