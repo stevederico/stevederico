@@ -27,9 +27,14 @@
 
 ### 🤝 Omarchy Contributor
 - 🧪 **[Try Omarchy](https://github.com/omacom/try-omarchy)**
+  - ⌨️ **[Hold guest Super for Command chords](https://github.com/omacom/try-omarchy/pull/279)** - Mac Command shortcuts reach Omarchy keybinds under full-grab
+  - 📌 **[Pin the virglrenderer tap to a commit](https://github.com/omacom/try-omarchy/pull/381)** - Reproducible GPU library builds
   - 🔊 **[Match QEMU audio rates to Mac devices](https://github.com/omacom/try-omarchy/pull/283)** - Guest audio matches the selected Mac output
   - 🔍 **[Opt-in HVF trace log](https://github.com/omacom/try-omarchy/pull/278)** - Debug Apple Hypervisor issues from the launcher
   - 🧹 **[Only unmap mapped HVF sections](https://github.com/omacom/try-omarchy/pull/277)** - Fixes an Apple Hypervisor unmap bug
+- 🌐 **[omarchy-site](https://github.com/omacom/omarchy-site)**
+  - 🌌 **[Add the Space theme](https://github.com/omacom/omarchy-site/pull/436)** - Space theme on the Omarchy site
+  - 🔥 **[Add the Burn theme](https://github.com/omacom/omarchy-site/pull/432)** - Burn theme on the Omarchy site
 - 📦 **[omarchy-pkgs](https://github.com/omacom/omarchy-pkgs)**
   - 🚫 **[Disable Cursor bundled updater](https://github.com/omacom/omarchy-pkgs/pull/370)** - cursor-bin updates through pacman only
 
