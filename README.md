@@ -1,4 +1,4 @@
-# Hi, I'm Steve 👋 I code every day. 
+# Hi, I'm Steve 👋 I ship every day. 
 
 📍 **San Francisco** | 🤖 **Founder at [Dottie AI](https://dottie.ai)** | 📚 **O'Reilly Author**
 
