@@ -1,3 +1,7 @@
+0.20.0
+
+  Rename Watch X
+
 0.19.0
 
   Add Agent Keychain
