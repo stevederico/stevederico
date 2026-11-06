@@ -36,6 +36,7 @@
   - 🌌 **[Add the Space theme](https://github.com/omacom/omarchy-site/pull/436)** - Space theme on the Omarchy site
   - 🔥 **[Add the Burn theme](https://github.com/omacom/omarchy-site/pull/432)** - Burn theme on the Omarchy site
 - 📦 **[omarchy-pkgs](https://github.com/omacom/omarchy-pkgs)**
+  - 🦾 **[Carry aquamarine 0.16.0 for aarch64](https://github.com/omacom/omarchy-pkgs/pull/2027)** - Arch's aquamarine 0.16.0 on ARM
   - 🚫 **[Disable Cursor bundled updater](https://github.com/omacom/omarchy-pkgs/pull/370)** - cursor-bin updates through pacman only
 
 ### 🐧 Omarchy
