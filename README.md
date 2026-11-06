@@ -44,12 +44,15 @@
 - 🗓️ **[Almanac for Omarchy](https://github.com/stevederico/dottie-calendar-omarchy)** - Calendar for Omarchy. Day, week, month, year. Local events + ICS feeds
 - ☑️ **[Todo Bar for Omarchy](https://github.com/stevederico/dottie-todo-omarchy)** - Omarchy bar. Open todos from markdown
 - 🖥️ **[Omarchy Displays](https://github.com/stevederico/omarchy-displays)** - Arrange monitors like macOS Displays
+- 💾 **[Omarchy Time Machine](https://github.com/stevederico/omarchy-time-machine)** - Scheduled restic backups with a snapshot browser in the bar
 - 🏋️ **[Omarchy Gym](https://github.com/stevederico/omarchy-gym)** - Progressive Omarchy keybinding workouts
 - 👆 **[Omarchy Mac Trackpad](https://github.com/stevederico/omarchy-mac-trackpad)** - Mac-style trackpad for Omarchy on Intel T2 MacBooks
 - 📽️ **[Omarchy HDMI Room](https://github.com/stevederico/omarchy-hdmi-room)** - Agent prompt to get Omarchy onto Crestron / room HDMI switchers
 - 🌌 **[Space Theme](https://github.com/stevederico/omarchy-space-theme)** - Omarchy theme from the Space design system
 - 🔥 **[Burn Theme](https://github.com/stevederico/omarchy-burn-theme)** - Omarchy theme. Super Heavy night static fire
+- 🇺🇸 **[USA Theme](https://github.com/stevederico/omarchy-usa-theme)** - Omarchy theme. Colorized Iwo Jima, Old Glory red, parchment and khaki
 - 🐛 **[Omarchy X Bot](https://github.com/stevederico/omarchy-x-bot)** - Tag @omarchy on 𝕏 with a bug, get an AI-written GitHub issue. Cloudflare Workers, Grok, zero deps
+- 🌉 **[Omarchy SF](https://github.com/stevederico/omarchy-sf)** - The San Francisco Omarchy meetup
 
 ### 𝕏 Apps
 - 🔨 **[HARDWORK](https://hardwork.dev)** - Resumes for 𝕏, what have you done this week?
@@ -66,7 +69,9 @@
 - 👁 **[Lookout](https://github.com/stevederico/lookout)** - Click an element in your Vite app, type a note, Grok edits the source
 - 📂 **[Session Review](https://github.com/stevederico/session-review)** - Browse, search, and analyze local Claude + Grok coding-agent sessions
 - 🎛️ **[Usage Dashboard](https://github.com/stevederico/usage-dashboard)** - Usage for all your agents
+- 📊 **[Apex Analytics](https://github.com/stevederico/apex-analytics)** - Self-hosted product analytics. Events, cookieless web analytics, feedback widget, dashboard. Rust + Axum + SQLite
 - 🔗 **[Mongo MCP](https://github.com/stevederico/mongo-mcp)** - Connect agents to MongoDB
+- 🔐 **[Agent Keychain](https://github.com/stevederico/agent-keychain)** - Secret store for agents. Runs local, zero dependencies, 3.5K LOC
 - 🐑 **[herdr Plugins](https://github.com/stevederico/herdr-plugins)** - herdr plugins: sidebar, git badge, explorer
 - 🗺️ **[Cartographer](https://github.com/stevederico/cartographer)** - create architecture diagrams agent skill
 - 📱 **[Silo](https://github.com/stevederico/silo)** - Local AI assistant for iOS, local inference, private, on-device
@@ -141,7 +146,7 @@
 - 🐶 **[Friend](https://friend.bixbyapps.com)** – Make a friend
 - 💰 **[Sales](https://sales.bixbyapps.com)** – Track leads & deals
 - 🍎 **[Food Scanner](https://food.bixbyapps.com)** – Watch what you eat
-- 🎲 **[Vegas Buddy](https://vegas.bixbyapps.com)** – Happy hours & deals
+- 🎲 **[Vegas Buddy](https://github.com/stevederico/vegas-buddy)** – Happy hours, food deals, and free attractions in Las Vegas on a map
 - 💖 **[Favs](https://favs.bixbyapps.com)** – Share your favorites
 - 🌲 **[Pine](https://climate.bixbyapps.com)** – Green energy tracker
 - 📦 **[SiteGen](https://sitegen.bixbyapps.com)** – Generate static sites

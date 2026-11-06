@@ -1,3 +1,12 @@
+0.19.0
+
+  Add Agent Keychain
+  Add Apex Analytics
+  Add Time Machine
+  Add USA Theme
+  Add Omarchy SF
+  Link Vegas Buddy
+
 0.18.0
 
   Add aquamarine PR
