@@ -114,7 +114,7 @@
 
 ### 🎮 Games
 - 🎮 **[LoSV](https://github.com/stevederico/LoSV)** - Legend of Silicon Valley — Zelda-style startup adventure game
-- 🪐 **[Solar System Simulator](https://github.com/stevederico/solar-system-simulator)** - Interactive 3D solar system with a gravity-assist slingshot game
+- 🪐 **[Solar System Simulator](https://solar-system-simulator.grok.me)** - Interactive 3D solar system with a gravity-assist slingshot game
 - 🌫️ **[Hollowtide](https://github.com/stevederico/hollowtide)** - First-person puzzle island. Three.js, TypeScript, WebAudio, all generated in code
 - 🗡️ **[Indie Quest](https://github.com/stevederico/indie-quest)** - Top-down pixel adventure about shipping products and fighting churn
 - 🏟️ **[Baseball Tycoon](https://github.com/stevederico/baseball-tycoon)** - Baseball stadium management sim
@@ -145,13 +145,13 @@
 - 🎤 **[Podcaster](https://podcast.bixbyapps.com)** – Live podcast assistant
 - 🐶 **[Friend](https://friend.bixbyapps.com)** – Make a friend
 - 💰 **[Sales](https://sales.bixbyapps.com)** – Track leads & deals
-- 🍎 **[Food Scanner](https://github.com/stevederico/food-scanner)** – Watch what you eat
+- 🍎 **[Food Scanner](https://food.bixbyapps.com)** – Watch what you eat
 - 🎲 **[Vegas Buddy](https://github.com/stevederico/vegas-buddy)** – Happy hours, food deals, and free attractions in Las Vegas on a map
-- 💖 **[Favs](https://github.com/stevederico/favorites)** – Share your favorites
-- 🌲 **[Pine](https://github.com/stevederico/climate-calculator)** – Green energy tracker
+- 💖 **[Favs](https://favs.bixbyapps.com)** – Share your favorites
+- 🌲 **[Pine](https://climate.bixbyapps.com)** – Green energy tracker
 - 📦 **[SiteGen](https://sitegen.bixbyapps.com)** – Generate static sites
 - 🏠 **[HomeStay](https://rental.bixbyapps.com)** – Stay without fees
-- 🏫 **[SF Schools](https://github.com/stevederico/schools-sf)** – Find & compare San Francisco schools on a map
+- 🏫 **[SF Schools](https://schools.bixbyapps.com)** – Find & compare San Francisco schools on a map
 - 📍 **[Venue Directory](https://github.com/stevederico/venue-directory)** – SF meetup rooms: map, list, and agent contact API (zero-crate Rust)
 - 📊 **[Stocks](https://stocks.bixbyapps.com)** – Smart trading signals
 - 👉 **[More apps](https://www.bixbyapps.com)**
@@ -192,7 +192,7 @@
 ## What I'm Doing
 
 - **Build** — AI agents, coding factories, and developer tools (Dottie, DotBot, Detroit)
-- **Open source** — agent skills, CLIs, MCP integrations, autonomous workflows, and [16 MIT-licensed apps](https://www.bixbyapps.com)
+- **Open source** — agent skills, CLIs, MCP integrations, autonomous workflows
 - **Omarchy** — themes, plugins, and upstream PRs to [omarchy](https://github.com/omacom/omarchy) + [try-omarchy](https://github.com/omacom/try-omarchy)
 - **Founder** — [Dottie AI](https://dottie.ai). Speed is a core value
 - **Community** — SF builder scene (NSMeetup, 4,000+ members)
