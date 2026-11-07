@@ -1,3 +1,8 @@
+0.21.0
+
+  Link open source apps
+  Note 16 MIT apps
+
 0.20.0
 
   Rename Watch X
