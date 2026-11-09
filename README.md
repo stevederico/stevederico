@@ -22,8 +22,14 @@
 - 💻 **[Dottie Local](https://github.com/stevederico/dottie-local)** - Local model inference + DotBot harness. HTTP, MCP, CLI
 - 🖥️ **[DotOS](https://os.dottie.ai)** – Generative operating system
 - 🗣️ **[Dottie Talk](https://github.com/stevederico/dottie-talk)** - Talk to your computer. Speak and dictate. Local STT + TTS via MCP, CLI, HTTP
-- 📅 **[Almanac](https://github.com/stevederico/almanac)** - Agent-first calendar. Request one, subscribe the URL, agents write events
-- 📆 **[Dottie Calendar](https://calendar.dottie.ai)** - Web calendar for Almanac. Day, week, month, year
+
+### ☁️ Agent Cloud
+- ☁️ **[Agent Cloud](https://github.com/stevederico/agentcloud)** - Agent-first calendar, notes, and todos on one key. Request one, subscribe the URL, agents write. [cloud.bixbyapps.com](https://cloud.bixbyapps.com)
+- 📆 **[Calendar](https://cloud.bixbyapps.com/calendar/)** - Web calendar for Agent Cloud. Day, week, month, year
+- 📝 **[Notes](https://cloud.bixbyapps.com/notes/)** - Web notes for Agent Cloud. Markdown, same key as calendar
+- ☑️ **[Todos](https://cloud.bixbyapps.com/todos/)** - Web list for Agent Cloud todos
+- 🗓️ **[Calendar for Omarchy](https://github.com/stevederico/calendar-omarchy)** - Omarchy calendar. Day, week, month, year. Agent Cloud events + ICS feeds
+- ☑️ **[Todos for Omarchy](https://github.com/stevederico/todos-omarchy)** - Omarchy bar and window. Markdown todos + Agent Cloud todos
 
 ### 🤝 Omarchy Contributor
 - 🧪 **[Try Omarchy](https://github.com/omacom/try-omarchy)**
@@ -41,8 +47,6 @@
 
 ### 🐧 Omarchy
 - 🐧 **[Dottie Omarchy](https://github.com/stevederico/dottie-omarchy)** - Two-way voice assistant for Omarchy. Grok duplex, local STT + TTS, desktop tools
-- 🗓️ **[Almanac for Omarchy](https://github.com/stevederico/dottie-calendar-omarchy)** - Calendar for Omarchy. Day, week, month, year. Local events + ICS feeds
-- ☑️ **[Todo Bar for Omarchy](https://github.com/stevederico/dottie-todo-omarchy)** - Omarchy bar. Open todos from markdown
 - 🖥️ **[Omarchy Displays](https://github.com/stevederico/omarchy-displays)** - Arrange monitors like macOS Displays
 - 💾 **[Omarchy Time Machine](https://github.com/stevederico/omarchy-time-machine)** - Scheduled restic backups with a snapshot browser in the bar
 - 🏋️ **[Omarchy Gym](https://github.com/stevederico/omarchy-gym)** - Progressive Omarchy keybinding workouts
