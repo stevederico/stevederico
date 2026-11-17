@@ -1,3 +1,7 @@
+0.25.0
+
+  Add popular PRs
+
 0.24.0
 
   Add Omarchy contributions
