@@ -38,10 +38,13 @@
   - 🔊 **[Match QEMU audio rates to Mac devices](https://github.com/omacom/try-omarchy/pull/283)** - Guest audio matches the selected Mac output
   - 🔍 **[Opt-in HVF trace log](https://github.com/omacom/try-omarchy/pull/278)** - Debug Apple Hypervisor issues from the launcher
   - 🧹 **[Only unmap mapped HVF sections](https://github.com/omacom/try-omarchy/pull/277)** - Fixes an Apple Hypervisor unmap bug
+  - 🗑️ **[Document removing the old VM after import](https://github.com/omacom/try-omarchy/pull/431)** - Reclaim disk after moving to a new VM
 - 🌐 **[omarchy-site](https://github.com/omacom/omarchy-site)**
   - 🌌 **[Add the Space theme](https://github.com/omacom/omarchy-site/pull/436)** - Space theme on the Omarchy site
   - 🔥 **[Add the Burn theme](https://github.com/omacom/omarchy-site/pull/432)** - Burn theme on the Omarchy site
+  - 🇺🇸 **[Add the USA theme](https://github.com/omacom/omarchy-site/pull/653)** - USA theme on the Omarchy site
 - 📦 **[omarchy-pkgs](https://github.com/omacom/omarchy-pkgs)**
+  - 🎞️ **[Retire the aarch64 ffmpeg fork](https://github.com/omacom/omarchy-pkgs/pull/2643)** - Arch Linux ARM now ships NVENC and NVDEC
   - 🦾 **[Carry aquamarine 0.16.0 for aarch64](https://github.com/omacom/omarchy-pkgs/pull/2027)** - Arch's aquamarine 0.16.0 on ARM
   - 🚫 **[Disable Cursor bundled updater](https://github.com/omacom/omarchy-pkgs/pull/370)** - cursor-bin updates through pacman only
 

@@ -1,3 +1,7 @@
+0.24.0
+
+  Add Omarchy contributions
+
 0.23.0
 
   Add Agent Cloud
