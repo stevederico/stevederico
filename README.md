@@ -35,6 +35,8 @@
 - 🔥 **Popular on 𝕏**
   - 🔁 **[Reopen windows after reboot](https://github.com/omacom/omarchy/pull/18092)** - Apps, workspaces and agent sessions come back. [245 likes, 8.6K views](https://x.com/stevederico/status/2120185346231239164)
   - ⇪ **[Show Caps Lock at the lock screen](https://github.com/omacom/omarchy/pull/15209)** - Fewer failed logins. [274 likes, 5.6K views](https://x.com/stevederico/status/2118355104567038341)
+- 🐧 **[omarchy](https://github.com/omacom/omarchy)**
+  - 🔄 **[Automatic overnight updates](https://github.com/omacom/omarchy/pull/19511)** - Updates overnight, snapshot first, off by default
 - 🧪 **[Try Omarchy](https://github.com/omacom/try-omarchy)**
   - ⌨️ **[Hold guest Super for Command chords](https://github.com/omacom/try-omarchy/pull/279)** - Mac Command shortcuts reach Omarchy keybinds under full-grab
   - 📌 **[Pin the virglrenderer tap to a commit](https://github.com/omacom/try-omarchy/pull/381)** - Reproducible GPU library builds
